@@ -1,0 +1,6 @@
+a1=input('matn ra vared konid:')
+a2=input('joda konand ra vared konid:')
+a3=input('vasl konande ra vared konid:')
+b1=a1.split(a2)
+b2=a3.join(b1)
+print(b2)
